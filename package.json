@@ -1,0 +1,11 @@
+{
+  "name": "electron-start",
+  "version": "1.0.0",
+  "description": "First electron project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YuHeng",
+  "license": "ISC"
+}
