@@ -1,5 +1,5 @@
 {
-  "name": "electron-start",
+  "name": "electron-start-simple",
   "version": "1.0.0",
   "description": "First electron project",
   "main": "index.js",

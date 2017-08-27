@@ -1,0 +1,14 @@
+{
+  "name": "electron-start-multi-window",
+  "version": "1.0.0",
+  "description": "Electron app with multiple windows",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "YuHeng",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.7.5"
+  }
+}
